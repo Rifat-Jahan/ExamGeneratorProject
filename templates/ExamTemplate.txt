@@ -1,0 +1,28 @@
+
+                                        Question Paper   
+										
+I) Multiple Choice Questions                                     Maximum Marks : {V:MCQ_MMARKS} 		     
+                                                                 Number of Questions : {V:MCQ_QNUM}
+-----------------------------------------------------------------------------------------
+     
+{V:MCQ_DATA}
+
+
+II) Cloze Questions                                              Maximum Marks : {V:CLOZE_MMARKS}            
+                                                                 Number of Questions : {V:CLOZE_QNUM}
+-----------------------------------------------------------------------------------------
+     
+{V:CLOZE_DATA}
+	 
+
+III) Open Questions                                              Maximum Marks : {V:OPEN_MMARKS}            
+                                                                 Number of Questions : {V:OPEN_QNUM}
+-----------------------------------------------------------------------------------------
+     
+	 
+{V:OPEN_DATA}
+	 
+	 
+-----------------------------------------------------------------------------------------
+
+

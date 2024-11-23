@@ -1,0 +1,18 @@
+ ---------------------------------------------------------------------------------
+| Project : Exam Generator          Main Screen                             	  |
+|---------------------------------------------------------------------------------|
+|                                                                                 |
+| 0. Exit Program                                                                 |
+|                                                                                 |
+| 1. Settings to generate question paper                                          |
+|                                                                                 |
+| 2. Display and Save question paper's soft copy                                  |
+|                                                                                 |
+| 3. Display and Save Answer paper's soft copy                                    |
+|                                                                                 |
+| 4. Regenerate another random set with same inputs                               |
+|                                                                                 |
+|---------------------------------------------------------------------------------|
+| Develoed By : Sukhdeep Kaur Singh & Rifat Jahan                                 |
+ --------------------------------------------------------------------------------- 
+
